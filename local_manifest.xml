@@ -1,38 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-	
-   
-
+<remote  name="ManitnjG" fetch="https://github.com/ManitnjG" />
+<remote name="arrow" fetch="https://github.com/ArrowOS-Devices" />
 <remote name="gitlab" fetch="https://gitlab.com/" />
-
-<remote name="darshan"
-
-           fetch="http://github.com/mevadadarshan19" />
-<remote  name="khirendra"
-           fetch="https://github.com/khirendra03" />
-
-<remote name="varun" 
-           fetch="https://gitlab.com/GhostMaster69-dev" />
-
-<remote name="arrow"
-      	   fetch="https://github.com/ArrowOS-Devices" />
-
-<remote name="ImSurajxD"
-		   fetch="https://gitlab.com/ImSurajxD" />
-
-<remote name="sonal"
-		   fetch="https://github.com/SonalSingh18" />
-
-<remote  name="compiler"
-           fetch="https://gitlab.com/arrowos-project" />
-           
-<remote  name="prcl"
-           fetch="https://github.com/kdrag0n" />
-	           
-<remote  name="ManitnjG"
-           fetch="https://github.com/ManitnjG" />
-	
 
   <!-- Trees -->
    <project path="device/asus/X01BD" name="android_device_asus_X01BD.git" remote="ManitnjG" revision="octavi" clone-depth="1" />
@@ -42,7 +12,7 @@
 
   <!-- clang -->
 <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="ImSurajxD/clang-r450784d.git" remote="gitlab" revision="master" clone-depth="1" />
-<project path="prebuilts/clang/host/linux-x86/clang-r437112b"arrowos-project/android_prebuilts_clang_host_linux-x86_clang-r437112b.git" remote="gitlab" revision="master" clone-depth="1" />
+<project path="prebuilts/clang/host/linux-x86/clang-r437112b" name="arrowos-project/android_prebuilts_clang_host_linux-x86_clang-r437112b.git" remote="gitlab" revision="master" clone-depth="1" />
 <project path="prebuilts/clang/host/linux-x86/clang-cosmic" name="GhostMaster69-dev/cosmic-clang.git" remote="gitlab" revision="release/14.x" clone-depth="1" />
 
 </manifest>
