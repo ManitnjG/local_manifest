@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+ 
+ <remote name="github" fetch="http://github.com" />
+ <remote name="github" fetch="http://gitlab.com" />
+
  <!-- Cosmic clang -->
  <project path="prebuilts/clang/host/linux-x86/clang-cosmic" name="GhostMaster69-dev/cosmic-clang" remote="gitlab" revision="release/14.x" clone-depth="1" />
 
