@@ -9,7 +9,7 @@
 <!-- VT -->
 <project path="vendor/asus" name="ManitnjG/proprietary_vendor_asus" remote="ghub" revision="13" />
 <!-- CT -->
-<project path="device/asus/sdm660-common" name="ManitnjG/device_asus_sdm660-common" remote="ghub" revision="13" />
+<project path="device/asus/sdm660-common" name="ManitnjG/android_device_asus_sdm660-common" remote="ghub" revision="13" />
 <!-- KT -->
 <project path="kernel/asus/sdm660" name="z3zens/android_kernel_asus_sdm660" remote="ghub" revision="lineage-20" />
 
