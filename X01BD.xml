@@ -11,5 +11,5 @@
 <!-- CT -->
 <project path="device/asus/sdm660-common" name="ManitnjG/common" remote="ghub" revision="eleven" />
 <!-- KT -->
-<project path="kernel/asus/sdm660" name="ManitnjG/kernel" remote="ghub" revision="eleven" />
+<project path="kernel/asus/sdm660" name="SonalSingh18/android_kernel_asus_sdm660" remote="ghub" revision="eleven" />
 </manifest>
