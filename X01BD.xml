@@ -5,7 +5,7 @@
         fetch="https://github.com" />
         
 <!-- DT -->
-<project path="device/xiaomi/violet" name="ManitnjG/android_device_xiaomi_violet" remote="ghub" revision="thirteen" />
+<project path="device/xiaomi/violet" name="LineageOS/android_device_xiaomi_violet" remote="ghub" revision="lineage-20" />
 <!-- VT -->
 <project path="vendor/xiaomi/violet" name="ManitnjG/android_vendor_xiaomi_violet" remote="ghub" revision="thirteen" />
 
