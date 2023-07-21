@@ -11,7 +11,7 @@
  <!--Trees-->
  <project path="device/xiaomi/violet" name="jashvakharia/device_xiaomi_violet" remote="ghub" revision="13.0" />
  <project path="vendor/xiaomi/violet" name="jashvakharia/proprietary_vendor_xiaomi_violet" remote="ghub" revision="lineage-20" />
- <project path="kernel/xiaomi/violet" name="jashvakharia/kernel_xiaomi_violet" remote="ghub" revision="thirteen" />
+ <project path="kernel/xiaomi/violet" name="kibria5/kernel_xiaomi_violet" remote="ghub" revision="13" />
  
  <project path="vendor/xiaomi-firmware" name="NRanjan-17/vendor_xiaomi-firmware" remote="gitl" revision="thirteen" />
 
