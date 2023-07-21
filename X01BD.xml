@@ -5,11 +5,9 @@
         fetch="https://github.com" />
         
 <!-- DT -->
-<project path="device/asus/X01BD" name="ManitnjG/android_device_asus_X01BD" remote="ghub" revision="13" />
+<project path="device/xiaomi/violet" name="ManitnjG/android_device_xiaomi_violet" remote="ghub" revision="thirteen" />
 <!-- VT -->
-<project path="vendor/asus" name="Mevadadarshan1997/proprietary_vendor_asus" remote="ghub" revision="13" />
-<!-- CT -->
-<project path="device/asus/sdm660-common" name="Mevadadarshan1997/android_device_asus_sdm660-common" remote="ghub" revision="13" />
-<!-- KT -->
-<project path="kernel/asus/sdm660" name="z3zens/android_kernel_asus_sdm660" remote="ghub" revision="lineage-20" />
+<project path="vendor/xiaomi/violet" name="ManitnjG/android_vendor_xiaomi_violet" remote="ghub" revision="thirteen" />
+
+<project path="kernel/xiaomi/violet" name="ManitnjG/kernel_xiaomi_violet" remote="ghub" revision="kernelsu" />
 </manifest>
