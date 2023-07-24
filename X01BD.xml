@@ -4,7 +4,7 @@
 <remote name="ghub"
         fetch="https://github.com" />
         
-<project path="device/asus/X01BD" name="ManitnjG/android_device_asus_X01BD" remote="ghub" revision="octavi" />
+<project path="device/asus/X01BD" name="ManitnjG/android_device_asus_X01BD" remote="ghub" revision="arrow" />
 <!-- VT -->
 <project path="vendor/asus" name="khirendra03/proprietary_vendor_asus" remote="ghub" revision="13" />
 <!-- CT -->
