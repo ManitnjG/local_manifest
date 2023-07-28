@@ -5,7 +5,7 @@
 <project path="device/asus/X01BD" name="RT1648/android_device_asus_X01BD" remote="ghub" revision="superior" />
 <project path="vendor/asus" name="RT1648/proprietary_vendor_asus" remote="ghub" revision="13" />
 <project path="device/asus/sdm660-common" name="RT1648/android_device_asus_sdm660-common" remote="ghub" revision="13" />
-<project path="kernel/asus/sdm660" name="RyuujiX/android_kernel_asus_sdm660" remote="ghub" revision="r7/hmp
+<project path="kernel/asus/sdm660" name="RyuujiX/android_kernel_asus_sdm660" remote="ghub" revision="r7/hmp" />
 
         
 </manifest>
