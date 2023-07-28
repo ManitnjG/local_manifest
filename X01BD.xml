@@ -2,10 +2,13 @@
 <manifest>
 <remote name="ghub"
         fetch="https://github.com" />
-<project path="device/asus/X01BD" name="ManitnjG/android_device_asus_X01BD" remote="ghub" revision="sup" />
-<project path="vendor/asus" name="RT1648/proprietary_vendor_asus" remote="ghub" revision="13" />
-<project path="device/asus/sdm660-common" name="RT1648/android_device_asus_sdm660-common" remote="ghub" revision="13" />
-<project path="kernel/asus/sdm660" name="RyuujiX/android_kernel_asus_sdm660" remote="ghub" revision="r7/hmp" />
+<project path="device/asus/X01BD" name="ManitnjG/android_device_asus_X01BD" remote="ghub" revision="droid" />
 
+<!-- VT -->
+<project path="vendor/asus" name="Mevadadarshan1997/proprietary_vendor_asus" remote="ghub" revision="13" />
+<!-- CT -->
+<project path="device/asus/sdm660-common" name="Mevadadarshan1997/android_device_asus_sdm660-common" remote="ghub" revision="13" />
+<!-- KT -->
+<project path="kernel/asus/sdm660" name="z3zens/android_kernel_asus_sdm660" remote="ghub" revision="lineage-20" />
         
 </manifest>
