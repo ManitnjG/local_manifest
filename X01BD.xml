@@ -25,7 +25,7 @@
  <!-- Trees -->
   <project path="device/asus/X01BD" name="ManitnjG/new" remote="ghub" revision="lineage" clone-depth="1" />
   <project path="device/asus/sdm660-common" name="SonalSingh18/android_device_asus_sdm660-common" remote="ghub" revision="13" clone-depth="1" />
-  <project path="vendor/asus" name="SonalSingh18/proprietary_vendor_asus" remote="ghub" revision="13" clone-depth="1" />
+  <project path="vendor/asus" name="SonalSingh18/android_vendor_asus_sdm660" remote="ghub" revision="13" clone-depth="1" />
   <project path="kernel/asus/sdm660" name="z3zens/android_kernel_asus_sdm660" remote="ghub" revision="lineage-20" clone-depth="1" />
 
   <!-- clang -->
