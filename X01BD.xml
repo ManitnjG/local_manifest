@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remote name="ghub"
-        fetch="https://github.com" />
-        
+ <remote  name="khirendra"
+           fetch="https://github.com/khirendra03" />
+<remote  name="darshan"
+           fetch="https://github.com/Mevadadarshan1997" />
 
- <!-- Trees -->
-  <project path="device/asus/X01BD" name="asus-X01BD-4-19-devs/android_device_asus_X01BD" remote="ghub" revision="lineage-20.0" clone-depth="1" />
-  <project path="device/asus/sdm660-common" name="asus-X01BD-4-19-devs/android_device_asus_sdm660-common" remote="ghub" revision="lineage-20.0" clone-depth="1" />
-  <project path="vendor/asus" name="asus-X01BD-4-19-devs/proprietary_vendor_asus" remote="ghub" revision="rebase" clone-depth="1" />
-  <project path="kernel/asus/sdm660" name="asus-X01BD-4-19-devs/android_kernel_asus_sdm660" remote="ghub" revision="android13-sdm660" clone-depth="1" />
+<remote  name="dazz"
+           fetch="https://github.com/mevadadarshan19" />
+	
+<remote name="varun" 
+           fetch="https://gitlab.com/GhostMaster69-dev" />
+
+<remote name="volt"
+      	   fetch="https://github.com/karthik1896" />
+
+<remote name="ImSurajxD"
+		   fetch="https://gitlab.com/ImSurajxD" />
+
+<remote name="sonal"
+		   fetch="https://github.com/ArrowOS-Devices" />
+
+<remote  name="compiler"
+           fetch="https://gitlab.com/arrowos-project" />
+           
+<remote  name="prcl"
+           fetch="https://github.com/kdrag0n" />
+  <remote  name="mani"
+           fetch="https://github.com/ManitnjG/" />
+  
+  <project path="device/asus/X01BD" name="android_device_asus_X01BD" remote="mani" revision="aosp" clone-depth="1" />
+ <project path="device/asus/sdm660-common" name="android_device_asus_sdm660-common" remote="darshan" revision="13" clone-depth="1" />
+  <project path="vendor/asus" name="proprietary_vendor_asus" remote="darshan" revision="13" clone-depth="1" />
+  <project path="kernel/asus/sdm660" name="android_kernel_asus_sdm660" remote="darshan" revision="lineage-20" clone-depth="1" />
+  <!-- clang -->
+ 
 
   </manifest>
